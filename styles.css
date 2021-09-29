@@ -11,7 +11,7 @@ body{
     background-color: black;
 }
 .signBox{
-    width: min(90%, 200px);
+    width: min(90%, 500px);
 }
 .letters{
     fill: #dffacf;
