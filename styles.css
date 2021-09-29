@@ -11,7 +11,7 @@ body{
     background-color: black;
 }
 .signBox{
-    width: min(90%, 400px);
+    width: min(90%, 200px);
 }
 .letters{
     fill: #dffacf;
@@ -95,7 +95,7 @@ body{
 }
 .backboard{
     fill:#270F18;
-    stroke: rgb(32, 34, 11);
+    stroke: #1a0a10;
     stroke-width: 2px;
     filter: drop-shadow(0 0  40px rgb(32, 34, 11)) blur(1px);
 }
